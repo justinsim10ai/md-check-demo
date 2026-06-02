@@ -1,0 +1,6 @@
+# md-check demo
+
+> Demo repo for md-check pull-request automation.
+
+## Pages
+- [Home](https://example.com/): the homepage
