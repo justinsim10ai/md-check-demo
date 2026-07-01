@@ -4,20 +4,20 @@
 
 ## Product
 
-- [Home](https://md.weregoingplaces.xyz/): Overview of md-check's audit capabilities and scoring system.
-- [Run Audit](https://md.weregoingplaces.xyz/audit): Instantly audit any URL for SEO and AEO signals.
-- [Projects](https://md.weregoingplaces.xyz/projects): Save URL sets and track audit history over time.
+- [Home](https://md.weregoingplaces.xyz/): The md-check web app — audit any URL for SEO and AEO signals (sign-in required).
 
-## Docs
+## Guides
 
-- [How Scoring Works](https://md.weregoingplaces.xyz/docs/scoring): Explains SEO/AEO 0–100 scores, render modes, visibility, and schema detection.
-- [AEO Signals](https://md.weregoingplaces.xyz/docs/aeo): Details on AI-crawler access, aiAccess.searchBlocked, and markdown serving.
-- [Schema & Structured Data](https://md.weregoingplaces.xyz/docs/schema): How schemaTypes are detected and why they matter for AI attribution.
-- [robots.txt & Crawler Access](https://md.weregoingplaces.xyz/docs/robots): Guidance on unblocking OAI-SearchBot, Claude-SearchBot, and PerplexityBot.
-- [llms.txt Standard](https://md.weregoingplaces.xyz/docs/llms-txt): What the llms.txt format is and how md-check generates it.
-- [GitHub Integration](https://md.weregoingplaces.xyz/docs/github): How to connect a repo and ship fixes as pull requests.
+Public feature deep-dives explaining each score and signal md-check measures.
 
-## About
-
-- [About md-check](https://md.weregoingplaces.xyz/about): Mission, methodology, and the team behind the tool.
-- [Changelog](https://md.weregoingplaces.xyz/changelog): Recent feature updates and audit engine improvements.
+- [All guides](https://md.weregoingplaces.xyz/guide): Index of the feature deep-dive pages.
+- [SEO score](https://md.weregoingplaces.xyz/guide/seo): How the 0–100 technical-SEO grade is built — indexability, no-JS visibility, structured data, on-page basics, and Core Web Vitals.
+- [AEO score](https://md.weregoingplaces.xyz/guide/aeo): Answer-engine readiness — the signals that make AI engines read, trust, and cite a page.
+- [Content structure & answerability](https://md.weregoingplaces.xyz/guide/content): Structuring pages the way AI extracts answers — answer-first passages, question-style headings, and scannable chunks.
+- [Freshness](https://md.weregoingplaces.xyz/guide/freshness): Exposing recent, machine-readable last-updated signals, and why stale pages lose citations.
+- [E-E-A-T (trust)](https://md.weregoingplaces.xyz/guide/eeat): Experience, Expertise, Authoritativeness, Trust — author identity, credentials, and outbound citations.
+- [Structured data](https://md.weregoingplaces.xyz/guide/schema): schema.org JSON-LD types, rich-result eligibility, and entity attribution for AI.
+- [AI crawler access](https://md.weregoingplaces.xyz/guide/aiaccess): Separating training bots from search/retrieval bots — and why blocking retrieval bots removes you from AI answers.
+- [AI visibility tracking](https://md.weregoingplaces.xyz/guide/citations): Measuring real visibility across answer engines and surfacing competitor citation gaps.
+- [Templates & segments](https://md.weregoingplaces.xyz/guide/segments): Auditing templatized sites cheaply with sampling and saved directory segments.
+- [Trends & regressions](https://md.weregoingplaces.xyz/guide/trends): Tracking score and issue movement across runs, and attributing changes to templates.
