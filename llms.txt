@@ -4,20 +4,20 @@
 
 ## Product
 
-- [Home](https://md-check.com/): Overview of md-check's audit capabilities and scoring system.
-- [Run Audit](https://md-check.com/audit): Instantly audit any URL for SEO and AEO signals.
-- [Projects](https://md-check.com/projects): Save URL sets and track audit history over time.
+- [Home](https://md.weregoingplaces.xyz/): Overview of md-check's audit capabilities and scoring system.
+- [Run Audit](https://md.weregoingplaces.xyz/audit): Instantly audit any URL for SEO and AEO signals.
+- [Projects](https://md.weregoingplaces.xyz/projects): Save URL sets and track audit history over time.
 
 ## Docs
 
-- [How Scoring Works](https://md-check.com/docs/scoring): Explains SEO/AEO 0–100 scores, render modes, visibility, and schema detection.
-- [AEO Signals](https://md-check.com/docs/aeo): Details on AI-crawler access, aiAccess.searchBlocked, and markdown serving.
-- [Schema & Structured Data](https://md-check.com/docs/schema): How schemaTypes are detected and why they matter for AI attribution.
-- [robots.txt & Crawler Access](https://md-check.com/docs/robots): Guidance on unblocking OAI-SearchBot, Claude-SearchBot, and PerplexityBot.
-- [llms.txt Standard](https://md-check.com/docs/llms-txt): What the llms.txt format is and how md-check generates it.
-- [GitHub Integration](https://md-check.com/docs/github): How to connect a repo and ship fixes as pull requests.
+- [How Scoring Works](https://md.weregoingplaces.xyz/docs/scoring): Explains SEO/AEO 0–100 scores, render modes, visibility, and schema detection.
+- [AEO Signals](https://md.weregoingplaces.xyz/docs/aeo): Details on AI-crawler access, aiAccess.searchBlocked, and markdown serving.
+- [Schema & Structured Data](https://md.weregoingplaces.xyz/docs/schema): How schemaTypes are detected and why they matter for AI attribution.
+- [robots.txt & Crawler Access](https://md.weregoingplaces.xyz/docs/robots): Guidance on unblocking OAI-SearchBot, Claude-SearchBot, and PerplexityBot.
+- [llms.txt Standard](https://md.weregoingplaces.xyz/docs/llms-txt): What the llms.txt format is and how md-check generates it.
+- [GitHub Integration](https://md.weregoingplaces.xyz/docs/github): How to connect a repo and ship fixes as pull requests.
 
 ## About
 
-- [About md-check](https://md-check.com/about): Mission, methodology, and the team behind the tool.
-- [Changelog](https://md-check.com/changelog): Recent feature updates and audit engine improvements.
+- [About md-check](https://md.weregoingplaces.xyz/about): Mission, methodology, and the team behind the tool.
+- [Changelog](https://md.weregoingplaces.xyz/changelog): Recent feature updates and audit engine improvements.

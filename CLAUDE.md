@@ -14,7 +14,7 @@ md-check app lives in the private `justinsim10ai/md-check` repo and runs on Fly.
   (`<script type="application/ld+json">`) with the product name, description, and
   `featureList`.
 - `llms.txt` — page map for AI crawlers, following the llms.txt convention md-check
-  itself promotes. Lists Product / Docs / About URLs under https://md-check.com.
+  itself promotes. Lists Product / Docs / About URLs under https://md.weregoingplaces.xyz.
 - `README.md` — short repo readme.
 
 ## Conventions
@@ -30,8 +30,9 @@ md-check app lives in the private `justinsim10ai/md-check` repo and runs on Fly.
 ## Deploying
 
 There is currently **no automated deploy** wired to this repo (no GitHub Pages,
-no Vercel/Netlify integration). The live site referenced in metadata
-(https://md-check.com) is hosted separately. Don't assume a push here goes live.
+no Vercel/Netlify integration). The live app referenced in metadata
+(https://md.weregoingplaces.xyz — the Fly app `md-check-wgp`) is hosted separately
+from this repo. Don't assume a push here goes live.
 
 ## Related
 
